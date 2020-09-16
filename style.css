@@ -236,3 +236,67 @@ nav {
     padding-bottom: 2%;
 
 }
+
+section {
+
+    height: 650px;
+    padding: 40px 15px;
+
+}
+
+.parte_sinistra_section {
+
+    width: 30%;
+    float: left;
+    padding-left: 12%;
+    padding-top: 8%;
+
+}
+
+.parte_destra_section {
+
+    float: left;
+    width: 50%;
+    padding-top: 2%;
+    padding-left: 20%;
+
+}
+
+.parte_destra_section h2 {
+
+    color: #737373;
+    font-size: 40px;
+    line-height: 1;
+    width: 110%;
+    padding-bottom: 50px;
+
+}
+
+.parte_destra_section h2 span {
+
+    color: #65DE82;
+
+}
+
+.parte_destra_section h3 {
+
+    font-size: 27px;
+    color: #011B50;
+    padding-top: 40px;
+
+}
+
+.parte_destra_section p {
+
+    color: #737373;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    font-size: 18px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #737373;
+
+}
+
+.parte_destra_section p:last-child{
+    border-bottom: 0;
+}
