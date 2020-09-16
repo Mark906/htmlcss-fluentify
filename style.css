@@ -63,7 +63,7 @@ nav {
 
     position: relative;
     z-index: 2;
-    height: 400px;
+    padding-bottom: 4%;
 
 }
 
@@ -86,10 +86,9 @@ nav {
 
 #header-button a {
 
-    text-transform: uppercase;
+
     height: 40px;
     line-height: 40px;
-    padding: 10px 15px;
     text-align: right;
     font-size: 14px;
 
@@ -113,6 +112,8 @@ nav {
 
     color: white;
     text-decoration: none;
+    text-transform: uppercase;
+
 
 }
 
@@ -169,6 +170,7 @@ nav {
 
 .button {
 
+    text-transform: uppercase;
     border-radius: 5px;
     background-color: #64DE82;
     color: #337142;
@@ -176,6 +178,7 @@ nav {
     border: 1px solid #64DE82;
     height: 40px;
     line-height: 40px;
+    padding: 10px 15px;
 
 }
 
@@ -200,5 +203,36 @@ nav {
 
     color: #001A4F;
     border-color: white;
+
+}
+
+.contenutojumbo {
+
+    padding-left: 6%;
+    padding-top: 1%;
+    color: white;
+
+}
+
+.contenutojumbo h4 {
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding-bottom: 1%;
+
+}
+
+.contenutojumbo h1 {
+
+    font-size: 50px;
+    padding-bottom: 1%;
+
+}
+
+.contenutojumbo p {
+
+    font-size: 18px;
+    padding-bottom: 2%;
 
 }
