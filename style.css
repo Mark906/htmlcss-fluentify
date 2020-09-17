@@ -8,7 +8,6 @@
 
     width: 1200px;
     margin: auto;
-    height: 100%;
 
 }
 
@@ -23,6 +22,12 @@ h1,h2,h3,h4,h5,h6 {
 
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
+}
+
+p {
+
+    color: #737373;
+
 }
 
 body {
@@ -232,6 +237,7 @@ nav {
 
 .contenutojumbo p {
 
+    color: white;
     font-size: 18px;
     padding-bottom: 2%;
 
@@ -289,7 +295,6 @@ section {
 .parte_destra_section p {
 
 
-    color: #737373;
     letter-spacing: 1px;
     line-height: 1.2;
     font-size: 18px;
@@ -333,7 +338,6 @@ section {
 
     text-align: center;
     padding-top: 3%;
-    color: #737373;
     line-height: 1.5;
 
 }
@@ -432,7 +436,6 @@ section {
 
     font-size: 18px;
     padding-top: 3%;
-    color: #737373;
     line-height: 1.5;
 
 }
