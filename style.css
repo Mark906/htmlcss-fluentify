@@ -9,7 +9,7 @@
     width: 1200px;
     margin: auto;
     height: 100%;
-    
+
 }
 
 .content::after {
@@ -392,5 +392,47 @@ section {
     position: relative;
     bottom: 37px;
     left: 100px;
+
+}
+
+.row_pt2 {
+
+    height: 430px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+.row_pt2_destra {
+
+    float: right;
+    margin-top: 8%;
+    width: 45%;
+    margin-right: 5%;
+
+}
+
+.row_pt2_sinistra {
+
+    float: left;
+    width: 33%;
+    margin-left: 5%;
+
+}
+
+.row_pt2_destra h3 {
+
+    padding-bottom: 3%;
+    font-size: 27px;
+    color: #011B50;
+
+}
+
+.row_pt2_destra p {
+
+    font-size: 18px;
+    padding-top: 3%;
+    color: #737373;
+    line-height: 1.5;
 
 }
