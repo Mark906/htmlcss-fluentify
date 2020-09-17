@@ -344,3 +344,51 @@ section {
     padding-bottom: 6%;
 
 }
+
+.row {
+
+    margin-top: 20%;
+    height: 360px;
+    background-color: #011B50;
+
+}
+
+.text_row {
+
+    float: left;
+
+}
+
+.text_row h2 {
+
+    color: white;
+    font-size: 40px;
+    width: 60%;
+
+}
+
+.text_row p {
+
+    padding-top: 1%;
+    color: white;
+    font-size: 18px;
+    width: 70%;
+
+}
+
+.text_row span {
+
+    display: block;
+    padding-top: 2%;
+    color: #65DE82;
+    font-size: 18px;
+
+}
+
+#imgrow {
+
+    position: relative;
+    bottom: 37px;
+    left: 100px;
+
+}
