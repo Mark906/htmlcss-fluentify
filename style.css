@@ -86,7 +86,6 @@ nav {
 
 #header-button a {
 
-
     height: 40px;
     line-height: 40px;
     text-align: right;
@@ -113,7 +112,6 @@ nav {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-
 
 }
 
@@ -288,6 +286,7 @@ section {
 
 .parte_destra_section p {
 
+
     color: #737373;
     letter-spacing: 1px;
     line-height: 1.2;
@@ -299,4 +298,49 @@ section {
 
 .parte_destra_section p:last-child{
     border-bottom: 0;
+}
+
+.istruzioni {
+
+    margin-top: 20%;
+
+}
+
+.istruzione{
+    float: left;
+    height: 370px;
+    width: 33%;
+}
+
+.istruzione img {
+
+    margin-left: 33%;
+
+}
+
+.istruzione h3 {
+
+    text-align: center;
+    padding-top: 4%;
+    font-size: 27px;
+    color: #011B50;
+
+}
+
+.istruzione p {
+
+    text-align: center;
+    padding-top: 3%;
+    color: #737373;
+    line-height: 1.5;
+
+}
+
+.istruzioni h2 {
+
+    color: #737373;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 6%;
+
 }
