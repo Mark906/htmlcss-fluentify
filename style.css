@@ -439,3 +439,41 @@ section {
     line-height: 1.5;
 
 }
+
+.row_pt3 {
+
+    height: 250px;
+    background-color: #2B4781;
+
+}
+
+.row_pt3_sinistra {
+
+    float: left;
+    margin-left: 6%;
+    width: 42%;
+    margin-top: 6%;
+
+}
+
+.row_pt3_sinistra h2 {
+
+    color: white;
+    font-size: 40px;
+
+}
+
+.row_pt3_destra {
+
+    float: right;
+    margin-right: 6%;
+    margin-top: 6%;
+
+}
+
+.row_pt3_destra p {
+
+    padding-bottom: 3%;
+    color: white;
+
+}
