@@ -11,7 +11,7 @@
 
 }
 
-.content::after {
+.container::after {
 
     content: '';
     display: table;
@@ -353,14 +353,13 @@ section {
 
 .row {
 
-    margin-top: 20%;
-    height: 360px;
     background-color: #011B50;
 
 }
 
 .text_row {
 
+    padding-top: 5%;
     float: left;
 
 }
@@ -394,7 +393,7 @@ section {
 #imgrow {
 
     position: relative;
-    bottom: 37px;
+    top: 3px;
     left: 100px;
 
 }
@@ -442,7 +441,6 @@ section {
 
 .row_pt3 {
 
-    height: 250px;
     background-color: #2B4781;
 
 }
@@ -452,7 +450,7 @@ section {
     float: left;
     margin-left: 6%;
     width: 42%;
-    margin-top: 6%;
+    margin-top: 4%;
 
 }
 
@@ -467,7 +465,7 @@ section {
 
     float: right;
     margin-right: 6%;
-    margin-top: 6%;
+    margin-top: 4%;
 
 }
 
